@@ -1,4 +1,5 @@
 # 👨🏻‍💻 Customer Shopping Behavior Analysis
+![Customer Behavior Dashboard](customer_behavior_dashboard.png)
 
 An end-to-end data analytics project analyzing **3,900 customer purchases** to uncover shopping patterns, customer segments, product performance, and subscription behavior.
 
